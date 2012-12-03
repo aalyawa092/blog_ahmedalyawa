@@ -3,8 +3,6 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<link rel="icon" type="image/png" href="img/music-note-icon.png" />
-
 		<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css" />
 		<link rel="stylesheet" type="text/css" href="styles.css" />
 		
