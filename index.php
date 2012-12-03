@@ -11,7 +11,7 @@
 		<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css" />
 		<link rel="stylesheet" type="text/css" href="styles.css" />
 		
-		<title>MyBands</title>
+		<title>Blog</title>
 	</head>
 	<body>
 		<div id="wrapper">
@@ -21,9 +21,6 @@
 			<nav>
 				<?php include('layout/nav.php')?>
 			</nav>
-			<div id="message">
-				<?php include('layout/message.php')?>
-			</div>
 			<div id="content">
 				<?php include('layout/content.php')?>
 			</div>
